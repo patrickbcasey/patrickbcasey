@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi, I'm Patrick. A Canadian Full-Stack Software Developer with an focus on creating tools that help make people's jobs easier.</h3>
+<h3 align="center">Hi, I'm Patrick. A Canadian Full-Stack Software Developer with a focus on creating tools that help make people's jobs easier.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
