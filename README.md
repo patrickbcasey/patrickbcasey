@@ -4,6 +4,85 @@
 <h3 align="center">A Canadian 🍁 Full-Stack Software Developer with a focus on creating tools that help make people's jobs easier.</h3>
 
 <h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">The Green Exchange</h3>
+        <br />
+        <a target="_blank" href="#">
+            <img src="#" width="100%" alt="Plant Trading App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=07a2cf&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, Bootstrap, MongoDB, Node.js, & Express.js</strong> - Platform to help proud plant parents find other greenthumbs to show off and trade their plants</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Chengyu 4 U"</h3>
+        <br />
+      <a target="_blank" href="#">
+            <img src="#" width="100%"  alt="Chinese Idiom App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=07a2cf&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, Tailwind, MongoDB, Node.js, & Express.js</strong> - A website to help Cantonese learners acquire native language skills through the use of traditional Chinese idioms</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio Website</h3>
+      <br />
+        <a target="_blank" href="https://patrickcasey.netlify.app">
+          <img src="#" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="http://patrickcasey.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=07a2cf&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Astrogram</h3>
+        <br />
+        <a target="_blank" href="#">
+          <img src="#" width="100%" alt="Astrogram"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://astrogram.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=07a2cf&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Appreciate the beauty that the universe has to offer. See photos and videos from NASA's Astronomy Photo of the Day API.</p>
+    </td>
+  </tr>
+</table>
 
 
 <h1 align="center">Technologies</h1>
@@ -55,7 +134,7 @@
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=07a2cf&style=plastic&logo=angellist&logo-color=white"/>
   </a>
     <a href="mailto:patrickbcasey@protonmail.com">
-      <img src="https://img.shields.io/static/v1?label=|&message=EMAIL&color=07a2cf&style=plastic&logo=gmail"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=EMAIL&color=23555f&style=plastic&logo=gmail"/>
   </a>
     
 </p>
