@@ -1,6 +1,24 @@
 
 <h1 align="center">Hi, I'm Patrick</h1>
 
+<p align="center">
+  <a href="https://patrickcasey.netlify.app">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/patrick-casey-dev/">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=07a2cf&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/ALearningRobot">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://angel.co/u/patrickbcasey">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=07a2cf&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+    <a href="mailto:patrickbcasey@protonmail.com">
+      <img src="https://img.shields.io/static/v1?label=|&message=EMAIL&color=23555f&style=plastic&logo=gmail"/>
+  </a>
+</p>
+
 <h3 align="center">A Canadian 🍁 Full-Stack Software Developer with a focus on creating tools that help make people's jobs easier.</h3>
 
 <h1 align="center">Projects</h1>
@@ -135,6 +153,5 @@
   </a>
     <a href="mailto:patrickbcasey@protonmail.com">
       <img src="https://img.shields.io/static/v1?label=|&message=EMAIL&color=23555f&style=plastic&logo=gmail"/>
-  </a>
-    
+  </a>    
 </p>
