@@ -1,13 +1,9 @@
 
-<h1 align="center">>Hi, I'm Patrick</h1>
+<h1 align="center">Hi, I'm Patrick</h1>
 
-<h3 align="center"A Canadian 🍁 Full-Stack Software Developer with a focus on creating tools that help make people's jobs easier.</h3>
+<h3 align="center">A Canadian 🍁 Full-Stack Software Developer with a focus on creating tools that help make people's jobs easier.</h3>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/alearningrobot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alearningrobot" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/patrick-casey-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patrick-casey-dev" height="30" width="40" /></a>
-</p>
+<h1 align="center">Projects</h1>
 
 
 <h1 align="center">Technologies</h1>
@@ -58,4 +54,8 @@
   <a href="https://angel.co/u/patrickbcasey">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=07a2cf&style=plastic&logo=angellist&logo-color=white"/>
   </a>
+    <a href="mailto:patrickbcasey@protonmail.com">
+      <img src="https://img.shields.io/static/v1?label=|&message=EMAIL&color=07a2cf&style=plastic&logo=gmail"/>
+  </a>
+    
 </p>
