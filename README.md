@@ -72,14 +72,14 @@
         </a>
       <br />
         <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://github.com/patrickbcasey/portfolio-2022" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="http://patrickcasey.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=07a2cf&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML5, CSS3, Sass, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Astrogram</h3>
