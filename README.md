@@ -84,8 +84,8 @@
     <td width="50%" valign="top">
       <h3 align="center">Astrogram</h3>
         <br />
-        <a target="_blank" href="#">
-          <img src="#" width="100%" alt="Astrogram"/>
+        <a target="_blank" href="https://astrogram.netlify.app/">
+          <img src="images/astrogram.png" width="100%" alt="Astrogram"/>
         </a>
         <br />
         <p align="center">
