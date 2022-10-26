@@ -34,7 +34,7 @@
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+  <a href="https://github.com/patrickbcasey/the-green-exchange" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="#" target="_blank">
@@ -52,7 +52,7 @@
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+  <a href="https://github.com/patrickbcasey/chengyu-4-u" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="#" target="_blank">
