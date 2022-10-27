@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<h3 align="center">A Canadian 🍁 Full-Stack Software Developer with a focus on creating tools that help make people's jobs easier.</h3>
+<h3 align="center">A Canadian 🍁 Full-Stack Software Developer focused on creating tools to makes people's lives easier.</h3>
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
