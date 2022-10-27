@@ -44,7 +44,7 @@
         <p><strong>Javascript, Bootstrap, MongoDB, Node.js, & Express.js</strong> - Platform to help proud plant parents find other greenthumbs to show off and trade their plants</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Chengyu 4 U"</h3>
+      <h3 align="center">Chengyu 4 U</h3>
         <br />
       <a target="_blank" href="#">
             <img src="#" width="100%"  alt="Chinese Idiom App"/>
