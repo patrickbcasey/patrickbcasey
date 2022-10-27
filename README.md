@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi, I'm Patrick</h1>
+<img src="images/banner.png">
 
 <p align="center">
   <a href="https://patrickcasey.netlify.app">
