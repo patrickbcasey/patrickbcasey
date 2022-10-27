@@ -29,7 +29,7 @@
       <h3 align="center">The Green Exchange</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="#" width="100%" alt="Plant Trading App"/>
+            <img src="images/green-exchange-demo.gif" width="100%" alt="Plant Trading App"/>
         </a>
         <br />
         <p align="center">
