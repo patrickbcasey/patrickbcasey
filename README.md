@@ -126,6 +126,11 @@
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=0b99c1&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=07a2cf&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=07a2cf&style=plastic&logo=firebase"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=.NET&color=23555f&style=plastic&logo=.NET"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GraphQL&color=23555f&style=plastic&logo=GraphQL"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PostgreSQL&color=23555f&style=plastic&logo=PostgreSQL"/>
+  
+  
 </p>
 
 <h1 align="center">Streak</h1>
