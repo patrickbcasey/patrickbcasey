@@ -46,7 +46,7 @@
       <h3 align="center">Chengyu 4 U</h3>
         <br />
       <a target="_blank" href="#">
-            <img src="#" width="100%"  alt="Chinese Idiom App"/>
+            <img src="images/chengyu-4-u.png" width="100%"  alt="Chinese Idiom App"/>
         </a>
         <br />
         <p align="center">
