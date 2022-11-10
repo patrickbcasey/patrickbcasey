@@ -67,7 +67,7 @@
       <h3 align="center">Portfolio Website</h3>
       <br />
         <a target="_blank" href="https://patrickcasey.netlify.app">
-          <img src="#" width="100%" alt="Portfolio"/>
+          <img src="images/personal-site.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
