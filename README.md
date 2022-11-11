@@ -27,7 +27,7 @@
     <td width="50%" valign="top">
       <h3 align="center">The Green Exchange</h3>
         <br />
-        <a target="_blank" href="#">
+        <a target="_blank" href="https://the-green-exchange.cyclic.app/">
             <img src="images/green-exchange-demo.gif" width="100%" alt="Plant Trading App"/>
         </a>
         <br />
